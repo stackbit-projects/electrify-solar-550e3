@@ -5,7 +5,7 @@ sections:
     title: KE Sy 60% Sasti Bijli!
     subtitle: 'Generate 60 lakh worth of electricity, in only 22 lakh(lifetime cost)'
     actions:
-      - label: Try for free
+      - label: WhatsApp
         url: /pricing
         style: primary
     image: images/hero.svg
