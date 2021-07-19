@@ -7,7 +7,7 @@ sections:
     actions:
       - label: WhatsApp
         url: 'https://wa.me/message/QR57NNW65WHZM1'
-        style: primary
+        style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
