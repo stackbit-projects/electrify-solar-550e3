@@ -6,7 +6,7 @@ sections:
     subtitle: 'Generate 60 lakh worth of electricity, in only 22 lakh(lifetime cost)'
     actions:
       - label: WhatsApp
-        url: /pricing
+        url: 'https://wa.me/message/QR57NNW65WHZM1'
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
