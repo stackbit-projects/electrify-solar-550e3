@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: KE Sy 60% Sasti Bijli!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Generate 60 lakh worth of electricity, in only 22 lakh(lifetime cost)'
     actions:
       - label: Try for free
         url: /pricing
