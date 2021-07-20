@@ -59,9 +59,9 @@ sections:
         media_position: left
         media_width: sixty
       - title: Maximum Utilization Of Solar Panels
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          With Electrify Solar, you will use the photovoltic panels to their
+          full potential. A
         actions:
           - label: Learn More
             url: /thank-you
