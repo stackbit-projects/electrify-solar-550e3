@@ -23,7 +23,7 @@ sections:
       <iframe 
           width: 80vw;
           height: 45vw;
-          max-height: 585px; src="https://www.youtube-nocookie.com/embed/ZcLfIEEbcaU?rel=0&hd=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          ; src="https://www.youtube-nocookie.com/embed/ZcLfIEEbcaU?rel=0&hd=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     title: Featured On
     align: center
