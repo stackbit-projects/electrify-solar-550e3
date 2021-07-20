@@ -26,7 +26,7 @@ sections:
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Why Choose Electrify Solar?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
