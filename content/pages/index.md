@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     video_embed_html: >-
-      <iframe
+      <iframe 
       src="https://www.youtube-nocookie.com/embed/ZcLfIEEbcaU?rel=0&hd=1"
       title="YouTube video player" frameborder="0" allow="accelerometer;
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
