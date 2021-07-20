@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     video_embed_html: >
-      <iframe width="1280" height="720"
+      <iframe width="560" height="315"
       src="https://www.youtube.com/embed/ZcLfIEEbcaU?rel=0&hd=1" title="YouTube
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
