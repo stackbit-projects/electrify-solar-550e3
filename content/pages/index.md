@@ -61,7 +61,7 @@ sections:
       - title: Maximum Utilization Of Solar Panels
         content: >
           With Electrify Solar, you will use the photovoltic panels to their
-          full potential. A
+          full potential.
         actions:
           - label: Learn More
             url: /thank-you
