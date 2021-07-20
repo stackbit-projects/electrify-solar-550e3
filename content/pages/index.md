@@ -19,11 +19,12 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    video_embed_html: |-
-      <iframe 
-          width: 80vw;
-          height: 45vw;
-       ; src="https://www.youtube-nocookie.com/embed/ZcLfIEEbcaU?rel=0&hd=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    video_embed_html: >
+      <iframe width="1040" height="585"
+      src="https://www.youtube.com/embed/ZcLfIEEbcaU?rel=0&hd=1" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - type: grid_section
     title: Featured On
     align: center
