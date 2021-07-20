@@ -29,9 +29,9 @@ sections:
     title: Why Choose Electrify Solar?
     features:
       - title: All the Production Data On Your Mobile
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          With Electrify Solar, you can see the performance of your solar system
+          on your mobile, from any where in the world.
         actions:
           - label: Learn More
             url: /thank-you
