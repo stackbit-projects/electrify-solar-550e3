@@ -79,7 +79,7 @@ sections:
   - type: features_section
     features:
       - title: “I love great companies like Electrify Solar”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: Manager at Company
         image: /images/user.svg
         image_alt: Ursula Gurnmeister photo
         media_position: left
