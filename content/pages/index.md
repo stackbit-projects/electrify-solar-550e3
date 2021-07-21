@@ -113,10 +113,11 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Inverter, batteries and breaker box will be installed and wired. After
+          checking all the connections are firmly and correctly connected,
+          inverter will be turned on. Customer will be briefed about all the
+          parts of the system and shutdown procedure. 
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
