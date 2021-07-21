@@ -126,10 +126,11 @@ sections:
         image_has_padding: true
         title: System Commissioning
       - title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Inverter will be connected to Wi-Fi and mobile app will be installed
+          on your phone. You can monitor your system on the mobile app to see
+          how much energy it is generating. We will also monitor the system
+          remotely to check that it's generating as expected. 
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
