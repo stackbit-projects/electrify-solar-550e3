@@ -143,7 +143,7 @@ sections:
     align: center
     background_color: none
   - type: blog_feed_section
-    title: What's New
+    title: Electric Appliances Buying Guides
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
