@@ -103,11 +103,8 @@ sections:
         image_has_padding: true
       - title: Solar Panels Installation
         title_align: left
-        content: >
-          Inverter, batteries and breaker box will be installed and wired. After
-          checking all the connections are firmly and correctly connected,
-          inverter will be turned on. Customer will be briefed about the
-          shutdown procedure.
+        content: |
+          Panels will be mounted on your roof using Galvanized Iron frames.
         content_align: left
         image: /images/solar-panel-only2.svg
         image_alt: Section item 2 icon
