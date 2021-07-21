@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: KE Sy 60% Sasti Bijli!
-    subtitle: 'Generate 60 lakh worth of electricity, in only 22 lakh(lifetime cost)'
+    subtitle: 'Generate 60 lac worth of electricity, in only 22 lac.'
     actions:
       - label: WhatsApp
         url: 'https://wa.me/message/QR57NNW65WHZM1'
