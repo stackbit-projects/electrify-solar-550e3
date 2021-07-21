@@ -135,6 +135,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        title: 'Your Energy Generation '
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
