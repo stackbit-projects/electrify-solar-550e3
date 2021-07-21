@@ -123,6 +123,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        title: System commissioning
       - title: Your Progress
         title_align: left
         content: >-
