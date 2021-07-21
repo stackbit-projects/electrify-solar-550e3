@@ -91,10 +91,9 @@ sections:
     grid_items:
       - title: Survey and Payment
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          After the survey, you will need to make the payment. After receiving
+          the payment, all the parts will be transported to your house.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
